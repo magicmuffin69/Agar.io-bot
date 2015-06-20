@@ -2,7 +2,6 @@
 // @name        Launcher
 // @namespace   AposLauncher
 // @include     http://agar.io/
-// @version     2.1
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
 // ==/UserScript==
@@ -884,7 +883,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "angrocket",
+  originalName = "jjj",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
